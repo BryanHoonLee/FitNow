@@ -1,10 +1,15 @@
 ## Welcome to FitNow
 
+Keep track of your exercises with ease.
+
+```
 
 
 
 
 
+
+```
 
 ### Support or Contact
 
